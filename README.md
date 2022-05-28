@@ -8,7 +8,7 @@ Mentorship Goals Needed To Finish
 - [x] CSS Grid
 - [x] Transform
 - [ ] Animation
-- [ ] Media Queries
+- [x] Media Queries
 - [ ] Grid System
 - [x] Create Your Framework || UI Kit
 
