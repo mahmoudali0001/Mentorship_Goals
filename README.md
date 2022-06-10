@@ -7,19 +7,19 @@ Mentorship Goals Needed To Finish
 - [x] Flex Box
 - [x] CSS Grid
 - [x] Transform
-- [ ] Animation
+- [x] Animation
 - [x] Media Queries
-- [ ] Grid System
+- [x] Grid System
 - [x] Create Your Framework || UI Kit
 
 ## JavaScript
 
-- [ ] DOM
-- [ ] Higher Order Functions
+- [x] DOM
+- [x] Higher Order Functions
 - [ ] Destructuring
 - [ ] Scope
-- [ ] Local Storage
-- [ ] Object Oriented Programming
+- [x] Local Storage
+- [x] Object Oriented Programming
 - [ ] Prototype
 - [ ] JSON
 - [ ] AJAX
@@ -36,7 +36,7 @@ Mentorship Goals Needed To Finish
 
 ### Codewars 300 Very Easy And Easy Problems
 
-- [ ] 50
+- [x] 50
 - [ ] 50
 - [ ] 50
 - [ ] 50
@@ -59,8 +59,8 @@ Mentorship Goals Needed To Finish
 
 ## Designs
 
-- [ ] Template 1 [HTML + CSS]
-- [ ] Template 2 [HTML + CSS]
+- [x] Template 1 [HTML + CSS]
+- [x] Template 2 [HTML + CSS]
 - [ ] Template 3 [HTML + CSS]
 - [ ] Template 4 [HTML + CSS + JS]
 - [ ] Dashboard [HTML + CSS + JS]
@@ -68,9 +68,9 @@ Mentorship Goals Needed To Finish
 ## Portofolio
 
 - [ ] Your Website
-- [ ] Github Profile
-- [ ] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
-- [ ] Resume
+- [x] Github Profile
+- [x] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
+- [x] Resume
 
 ## Before Frameworks
 
