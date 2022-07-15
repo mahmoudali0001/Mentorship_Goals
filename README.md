@@ -16,7 +16,7 @@ Mentorship Goals Needed To Finish
 
 - [x] DOM
 - [x] Higher Order Functions
-- [ ] Destructuring
+- [x] Destructuring
 - [x] Scope
 - [x] Local Storage
 - [x] Object Oriented Programming
@@ -27,10 +27,10 @@ Mentorship Goals Needed To Finish
 
 ## Tools 
 
-- [ ] Lighthouse
+- [x] Lighthouse
 - [ ] Google Developer Tools
 - [x] Git And Github
-- [ ] Terminal And Commands
+- [x] Terminal And Commands
 
 ## Problem Solving And Challenges
 
@@ -53,15 +53,27 @@ Mentorship Goals Needed To Finish
 
 ### Front-End Mentors 15 Challenges
 
+- [x] 1
+- [x] 2
+- [ ] 3
+- [ ] 4
 - [ ] 5
-- [ ] 5
-- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+- [ ] 14
+- [ ] 15
 
 ## Designs
 
 - [x] Template 1 [HTML + CSS]
 - [x] Template 2 [HTML + CSS]
-- [ ] Template 3 [HTML + CSS]
+- [x] Template 3 [HTML + CSS]
 - [ ] Template 4 [HTML + CSS + JS]
 - [ ] Dashboard [HTML + CSS + JS]
 
