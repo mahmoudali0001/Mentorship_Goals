@@ -21,8 +21,8 @@ Mentorship Goals Needed To Finish
 - [x] Local Storage
 - [x] Object Oriented Programming
 - [x] Prototype
-- [ ] JSON
-- [ ] AJAX
+- [x] JSON
+- [x] AJAX
 - [ ] Promises
 
 ## Tools 
@@ -37,7 +37,7 @@ Mentorship Goals Needed To Finish
 ### Codewars 300 Very Easy And Easy Problems
 
 - [x] 50
-- [ ] 50
+- [x] 50
 - [ ] 50
 - [ ] 50
 - [ ] 50
