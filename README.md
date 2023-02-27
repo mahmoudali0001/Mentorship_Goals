@@ -87,8 +87,8 @@ Mentorship Goals Needed To Finish
 ## Before Frameworks
 
 - [x] Virtual DOM
-- [ ] Modules
-- [ ] Reactivity
+- [x] Modules
+- [x] Reactivity
 - [ ] Design Patterns
 - [ ] Package Managers
 
