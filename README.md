@@ -79,14 +79,14 @@ Mentorship Goals Needed To Finish
 
 ## Portofolio
 
-- [ ] Your Website
+- [x] Your Website
 - [x] Github Profile
 - [x] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
 - [x] Resume
 
 ## Before Frameworks
 
-- [ ] Virtual DOM
+- [x] Virtual DOM
 - [ ] Modules
 - [ ] Reactivity
 - [ ] Design Patterns
